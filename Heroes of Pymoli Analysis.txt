@@ -9,9 +9,9 @@ Total Number of Purchases: 780
 Total Revenue: $2379.77
  
 Gender Demographics
-Percentage and Count of Male Players: 652 players idendify as Male, 113.19% of all players
-Percentage and Count of Female Players: 113 players idendify as Female, 19.62% of all players
-Percentage and Count of Other / Non-Disclosed: 15 players idendify as Other or Non-Disclose, 2.60% of all players
+Percentage and Count of Male Players: 652 players identify as Male, 113.19% of all players
+Percentage and Count of Female Players: 113 players identify as Female, 19.62% of all players
+Percentage and Count of Other / Non-Disclosed: 15 players identify as Other or Non-Disclose, 2.60% of all players
  
 Purchasing Analysis (Gender)
                        Number of Purchases Average Purchase Total Purchase  \
@@ -24,7 +24,13 @@ Other / Non-Disclosed                   15            $3.35         $50.19
 Gender                                               
 Female                                     3.203009  
 Male                                       3.017853  
-Other / Non-Disclosed                      3.346000  
+Other / Non-Disclosed                      3.346000                Purchase Count Average Purchase Price Total Purchase Value
+SN                                                                      
+Haillyrgue51               3                  $3.17                $9.50
+Phistym51                  2                  $4.75                $9.50
+Lamil79                    2                  $4.64                $9.29
+Aina42                     3                  $3.07                $9.22
+Saesrideu94                2                  $4.59                $9.18
 
 
 
