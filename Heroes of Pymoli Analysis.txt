@@ -1,0 +1,40 @@
+ 
+Heroes of Pymoli Analysis
+--------------------------
+Player Count/nTotal Number of Players: 576
+ /nPurchasing Analysis (Total)
+Number of Unique Items: 179
+Average Purchase Price: $3.05
+Total Number of Purchases: 780
+Total Revenue: $2379.77
+ 
+Gender Demographics
+Percentage and Count of Male Players: 652 players idendify as Male, 113.19% of all players
+Percentage and Count of Female Players: 113 players idendify as Female, 19.62% of all players
+Percentage and Count of Other / Non-Disclosed: 15 players idendify as Other or Non-Disclose, 2.60% of all players
+ 
+Purchasing Analysis (Gender)
+                       Number of Purchases Average Purchase Total Purchase  \
+Gender                                                                       
+Female                                 113            $3.20        $361.94   
+Male                                   652            $3.02       $1967.64   
+Other / Non-Disclosed                   15            $3.35         $50.19   
+
+                       Average Per Person by Gender  
+Gender                                               
+Female                                     3.203009  
+Male                                       3.017853  
+Other / Non-Disclosed                      3.346000  
+
+
+
+
+
+
+
+
+
+
+
+
+
